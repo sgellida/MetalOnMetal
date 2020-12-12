@@ -1,2 +1,2 @@
 
-<a href="https://github.com/sgellida/MetalOnMetal/raw/main/Prova/plugin.video.TestMetalOnMetal.zip">Descargar2</a>
+<a href="https://github.com/sgellida/MetalOnMetal/blob/main/plugin.video.MetalOnMetal.zip?raw=true">Descargar2</a>
